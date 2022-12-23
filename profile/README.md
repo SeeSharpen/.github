@@ -1,5 +1,5 @@
 > **Note**
-> We've recently changed our name from TeamUtils to SeeSharpen, see [this blog post](https://seesharpen.flarum.cloud/) for more information
+> We've recently changed our name from TeamUtils to SeeSharpen, see [this blog post](https://seesharpen.flarum.cloud/blog/3-teamutils-has-evolved) for more information
 
 <h1 align="center">SeeSharpen</h1>
 
